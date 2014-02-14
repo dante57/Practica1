@@ -256,4 +256,3 @@ Examen Exa=new Examen();
 }
 
 
-// botones de agregar, eliminar, reporte de calif. y modificar 
